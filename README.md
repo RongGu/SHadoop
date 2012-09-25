@@ -1,4 +1,4 @@
 SHadoop
 =======
 
-a optimized version of Hadoop for  Execution Performance of Short MapReduce Jobs
+a optimized version of Hadoop, especailly for  execution performance of short mapreduce jobs
