@@ -6,6 +6,12 @@ You can setup a Hadoop develop enviroment and then replace my corresponding java
 The total git develop environment is about 1GB, if you are interested, please free to contact me. 
 I will try to transfer it to you by some means:)
 
+The changed files are:
+https://github.com/RongGu/SHadoop/blob/master/release/SHadoop%200.20.205/for_developer/source_code/shadoop-0.20.205-dev/src/mapred/org/apache/hadoop/mapred/JobInProgress.java
+https://github.com/RongGu/SHadoop/blob/master/release/SHadoop%200.20.205/for_developer/source_code/shadoop-0.20.205-dev/src/mapred/org/apache/hadoop/mapred/TaskInProgress.java
+https://github.com/RongGu/SHadoop/blob/master/release/SHadoop%200.20.205/for_developer/source_code/shadoop-0.20.205-dev/src/mapred/org/apache/hadoop/mapred/TaskTracker.java
+
+
 Note:All the source code and jars downloaded from this website can only be used for study or reasearch. If you want to use SHadoop purpose, please also contact us first.
 
 contact email:gurongwalker at gmail dot com
